@@ -1,0 +1,7 @@
+Rencana kontenku:
+ - Javascript
+    * ES6
+    * Frameweok Javascript
+ - PHP Framework
+ - Interview
+ - Vlog
